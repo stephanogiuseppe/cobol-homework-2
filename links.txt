@@ -1,0 +1,3 @@
+STATUS FILE CODE: http://ibmmainframes.com/references/a27.html
+OPERATIONS: https://www.tutorialbrain.com/mainframe/cobol_file_operations/
+ENVIRONMENT DIVISION EXAMPLE: https://www.mainframestechhelp.com/tutorials/cobol/cobol-environment-division.htm
