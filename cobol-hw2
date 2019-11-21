@@ -19,7 +19,7 @@
                RECORD KEY IS NumConta.
        DATA DIVISION.
        FILE SECTION.
-           FD ARQ-CLIENTES VALUE OF FILE-ID IS "LEITURA.DAT".
+           FD ARQ-CLIENTES VALUE OF FILE-ID IS "CLIENTES.DAT".
            01 DADOS-ARQ.
                02 CodBanco PIC 9(03).
                02 CodAgencia PIC 9(04).
